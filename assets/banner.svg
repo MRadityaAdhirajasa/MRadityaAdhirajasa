@@ -6,10 +6,10 @@
 <text x="280" y="84" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">0</text>
 <path transform="translate(28 100) scale(.75)" d="M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8zM2 12h6M16 12h6" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="56" y="114" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">Commits (last year)</text>
-<text x="280" y="114" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">105</text>
+<text x="280" y="114" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">106</text>
 <path transform="translate(28 130) scale(.75)" d="M6 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM6 7v14M18 17a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM18 17V9a3 3 0 0 0-3-3h-4M13 3l-2 3 2 3" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="56" y="144" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">Total pull requests</text>
-<text x="280" y="144" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">43</text>
+<text x="280" y="144" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">38</text>
 <path transform="translate(28 160) scale(.75)" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM12 7v6M12 16.5v.5" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="56" y="174" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">Total issues</text>
 <text x="280" y="174" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" font-weight="600" fill="#E6EAF2" text-anchor="start">1</text>
@@ -19,16 +19,16 @@
 <circle cx="470" cy="128" r="58" fill="none" stroke="#1C2030" stroke-width="10"/>
 <circle cx="470" cy="128" r="58" fill="none" stroke="#22D3EE" stroke-width="10" stroke-dasharray="244 999" stroke-linecap="round" transform="rotate(-90 470 128)"/>
 <circle cx="470" cy="128" r="58" fill="none" stroke="#E879F9" stroke-width="10" stroke-dasharray="0 255 93 999" stroke-linecap="round" transform="rotate(-90 470 128)"/>
-<text x="470" y="134" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="30" font-weight="700" fill="#E6EAF2" text-anchor="middle">126</text>
+<text x="470" y="134" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="30" font-weight="700" fill="#E6EAF2" text-anchor="middle">127</text>
 <text x="470" y="156" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9AA3B5" text-anchor="middle">contributions</text>
 <rect x="609" y="1" width="590" height="230" rx="18" fill="#10131C" stroke="#22D3EE" stroke-opacity=".45"/>
 <text x="636" y="46" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#22D3EE" text-anchor="start">Most Used Languages</text>
 <clipPath id="bar"><rect x="636" y="66" width="536" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
 <rect x="636.0" y="66" width="369.9" height="10" fill="#22D3EE"/>
-<rect x="1007.9" y="66" width="66.7" height="10" fill="#E879F9"/>
-<rect x="1076.6" y="66" width="25.8" height="10" fill="#FB923C"/>
-<rect x="1104.4" y="66" width="19.8" height="10" fill="#A3E635"/>
-<rect x="1126.2" y="66" width="18.4" height="10" fill="#60A5FA"/>
+<rect x="1007.9" y="66" width="66.8" height="10" fill="#E879F9"/>
+<rect x="1076.7" y="66" width="25.8" height="10" fill="#FB923C"/>
+<rect x="1104.5" y="66" width="19.8" height="10" fill="#A3E635"/>
+<rect x="1126.3" y="66" width="18.3" height="10" fill="#60A5FA"/>
 <rect x="1146.6" y="66" width="13.7" height="10" fill="#FBBF24"/>
 <rect x="1162.4" y="66" width="3.4" height="10" fill="#A78BFA"/>
 <rect x="1167.8" y="66" width="2.2" height="10" fill="#94A3B8"/>
