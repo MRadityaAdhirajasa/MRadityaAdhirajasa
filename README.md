@@ -12,13 +12,24 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,php,js,html,css,sass,c,cpp&theme=dark" alt="Python, PHP, JavaScript, HTML, CSS, Sass, C, C++">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48">
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" width="48">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="48">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML" width="48">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS" width="48">
+  <img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass" title="Sass" width="48">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" width="48">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="48">
 </p>
 
 **AI, Data & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,fastapi,selenium&theme=dark" alt="TensorFlow, scikit-learn, OpenCV, FastAPI, Selenium">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" width="48">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" title="scikit-learn" width="48">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV" width="48">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="48">
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" title="Selenium" width="48">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Pandas-10131C?style=for-the-badge&logo=pandas&logoColor=22D3EE" alt="Pandas">
@@ -33,7 +44,10 @@
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" alt="Docker, Git, GitHub, GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="48">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="48">
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="48">
 </p>
 
 ### GitHub Analytics
@@ -43,8 +57,6 @@
 ### Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammad-raditya-adhirajasa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+  <a href="https://www.linkedin.com/in/muhammad-raditya-adhirajasa"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" width="48"></a>
+  <a href="https://discord.com/users/811445695553732628"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Discord" width="48"></a>
 </p>
-
-Discord: **@ryajuu**
