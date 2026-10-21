@@ -1,0 +1,45 @@
+name: Update banner
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily, 00:00 UTC (07:00 WIB)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  banner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GitHub data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api graphql -F login="${{ github.repository_owner }}" -f query='
+          query($login: String!) {
+            user(login: $login) {
+              login
+              repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 100) {
+                totalCount
+                nodes { isFork languages(first: 10) { edges { size node { name } } } }
+              }
+              contributionsCollection {
+                totalCommitContributions totalRepositoryContributions
+                contributionCalendar { totalContributions weeks { contributionDays { date weekday contributionLevel } } }
+              }
+            }
+          }' > /tmp/gh.json
+
+      - name: Render banner
+        run: python3 -I scripts/make_banner.py /tmp/gh.json assets/banner.svg
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet assets/banner.svg && exit 0
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898099+github-actions[bot]@users.noreply.github.com'
+          git commit -am 'Update banner'
+          git push
