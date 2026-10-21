@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Streamlit-10131C?style=for-the-badge&logo=streamlit&logoColor=E879F9" alt="Streamlit">
   <img src="https://img.shields.io/badge/Jupyter-10131C?style=for-the-badge&logo=jupyter&logoColor=E879F9" alt="Jupyter">
   <img src="https://img.shields.io/badge/Hadoop-10131C?style=for-the-badge&logo=apachehadoop&logoColor=22D3EE" alt="Apache Hadoop">
-  <img src="https://img.shields.io/badge/Gemini-10131C?style=for-the-badge&logo=googlegemini&logoColor=22D3EE" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Gemini-10131C?style=for-the-badge&logo=googlegemini&logoColor=22D3EE" alt="GCP">
 </p>
 
 **Tools**
