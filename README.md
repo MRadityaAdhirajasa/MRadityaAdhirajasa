@@ -5,7 +5,6 @@
 - I work on data and AI, mostly LLM systems: retrieval-augmented generation, LLM-as-a-judge evaluation, and chain-of-thought distillation with QLoRA.
 - I've built machine learning projects in speech emotion recognition, object detection with YOLOv8, Indonesian sentiment analysis, and air quality forecasting.
 - On the data side I do engineering and analytics: Hadoop pipelines, ETL projects, and Streamlit dashboards.
-- I've also built web apps with PHP and CodeIgniter 4.
 
 ### Tech Stack
 
@@ -38,7 +37,6 @@
   <img src="https://img.shields.io/badge/Jupyter-10131C?style=for-the-badge&logo=jupyter&logoColor=E879F9" alt="Jupyter">
   <img src="https://img.shields.io/badge/Hadoop-10131C?style=for-the-badge&logo=apachehadoop&logoColor=22D3EE" alt="Apache Hadoop">
   <img src="https://img.shields.io/badge/Gemini-10131C?style=for-the-badge&logo=googlegemini&logoColor=22D3EE" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/CodeIgniter-10131C?style=for-the-badge&logo=codeigniter&logoColor=E879F9" alt="CodeIgniter">
 </p>
 
 **Tools**
