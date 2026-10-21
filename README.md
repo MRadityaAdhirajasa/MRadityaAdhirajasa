@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="M Raditya Adhirajasa: 122 contributions in the last year, 102 commits, 44 public repositories. Top languages: Jupyter Notebook, HTML, PHP, SCSS, Python.">
+<img src="./assets/banner.svg" width="100%" alt="M Raditya Adhirajasa: contributions, commits, repositories and top languages over the last year">
 
 ### Hi, I'm Raditya
 
