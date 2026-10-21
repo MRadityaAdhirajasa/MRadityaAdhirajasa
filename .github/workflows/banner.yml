@@ -22,13 +22,15 @@ jobs:
           query($login: String!) {
             user(login: $login) {
               login
+              pullRequests { totalCount }
+              issues { totalCount }
+              repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, ISSUE, REPOSITORY]) { totalCount }
               repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 100) {
-                totalCount
-                nodes { isFork languages(first: 10) { edges { size node { name } } } }
+                nodes { isFork stargazerCount languages(first: 10) { edges { size node { name } } } }
               }
               contributionsCollection {
-                totalCommitContributions totalRepositoryContributions
-                contributionCalendar { totalContributions weeks { contributionDays { date weekday contributionLevel } } }
+                totalCommitContributions
+                contributionCalendar { totalContributions }
               }
             }
           }' > /tmp/gh.json
